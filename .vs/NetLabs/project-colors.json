@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "63dceb1e-abfe-4bc1-91a7-83c68110454e": {
+      "ProjectGuid": "63dceb1e-abfe-4bc1-91a7-83c68110454e",
+      "DisplayName": "PQueue",
+      "ColorIndex": 0
+    },
+    "afdb1653-1b7f-4227-b42c-a55e9d2e715a": {
+      "ProjectGuid": "afdb1653-1b7f-4227-b42c-a55e9d2e715a",
+      "DisplayName": "PQueueLib",
+      "ColorIndex": 1
+    },
+    "e1a18cce-0cee-4301-b058-28535d6cd09e": {
+      "ProjectGuid": "e1a18cce-0cee-4301-b058-28535d6cd09e",
+      "DisplayName": "PQueueLib.Tests",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

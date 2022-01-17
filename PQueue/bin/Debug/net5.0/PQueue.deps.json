@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PQueue/1.0.0": {
+        "dependencies": {
+          "PQueueLib": "1.0.0"
+        },
+        "runtime": {
+          "PQueue.dll": {}
+        }
+      },
+      "PQueueLib/1.0.0": {
+        "runtime": {
+          "PQueueLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PQueue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PQueueLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

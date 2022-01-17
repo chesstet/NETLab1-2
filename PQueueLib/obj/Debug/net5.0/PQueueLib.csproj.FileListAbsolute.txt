@@ -1,0 +1,12 @@
+D:\SEM5\DontNet\NetLabs-master\PQueueLib\bin\Debug\net5.0\PQueueLib.deps.json
+D:\SEM5\DontNet\NetLabs-master\PQueueLib\bin\Debug\net5.0\PQueueLib.dll
+D:\SEM5\DontNet\NetLabs-master\PQueueLib\bin\Debug\net5.0\ref\PQueueLib.dll
+D:\SEM5\DontNet\NetLabs-master\PQueueLib\bin\Debug\net5.0\PQueueLib.pdb
+D:\SEM5\DontNet\NetLabs-master\PQueueLib\obj\Debug\net5.0\PQueueLib.csproj.AssemblyReference.cache
+D:\SEM5\DontNet\NetLabs-master\PQueueLib\obj\Debug\net5.0\PQueueLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM5\DontNet\NetLabs-master\PQueueLib\obj\Debug\net5.0\PQueueLib.AssemblyInfoInputs.cache
+D:\SEM5\DontNet\NetLabs-master\PQueueLib\obj\Debug\net5.0\PQueueLib.AssemblyInfo.cs
+D:\SEM5\DontNet\NetLabs-master\PQueueLib\obj\Debug\net5.0\PQueueLib.csproj.CoreCompileInputs.cache
+D:\SEM5\DontNet\NetLabs-master\PQueueLib\obj\Debug\net5.0\PQueueLib.dll
+D:\SEM5\DontNet\NetLabs-master\PQueueLib\obj\Debug\net5.0\ref\PQueueLib.dll
+D:\SEM5\DontNet\NetLabs-master\PQueueLib\obj\Debug\net5.0\PQueueLib.pdb
